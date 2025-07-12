@@ -1,0 +1,5 @@
+Flask==2.3.3
+mysql-connector-python==8.0.33
+kafka-python==2.0.2
+msgpack==1.0.8
+
